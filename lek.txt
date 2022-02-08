@@ -1,0 +1,3 @@
+data,Var2,ilosc_leku
+01.01.2021,apap,2
+

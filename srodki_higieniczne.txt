@@ -1,0 +1,3 @@
+data,podpaski,tampony,wkladki
+01.01.2021,0,0,0
+
